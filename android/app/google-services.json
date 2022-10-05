@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "538284003729",
+    "project_id": "car-ride-892e1",
+    "storage_bucket": "car-ride-892e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538284003729:android:eaba8d46f006b67654ca30",
+        "android_client_info": {
+          "package_name": "com.example.ride_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538284003729-dp1quu0mav9j05g5i5eh3oam643n15so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ride_app",
+            "certificate_hash": "abffa3398fa0ceaf8d24627878aa5f29b86e4089"
+          }
+        },
+        {
+          "client_id": "538284003729-v4ofi4lis512vltifa0qh4hcje52en4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHvtWD2ivgPQUebf-j6WHnMX3dCF5Rcno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538284003729-v4ofi4lis512vltifa0qh4hcje52en4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
